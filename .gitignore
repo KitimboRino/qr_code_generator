@@ -1,0 +1,31 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+qr_env/
+env/
+*.env
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+
+# Dependency directories
+# Comment out the specific one you use
+# For pipenv:
+# .venv/
+# For poetry:
+# .venv/
+# .venv/
+# For pip:
+# env/
+# For conda:
+# .conda/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
